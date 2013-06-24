@@ -1,0 +1,17 @@
+{
+  "name": "components-domready",
+  "description": "bullet proof DOM ready method",
+  "version": "0.2.11",
+  "homepage": "http://github.com/components/domready",
+  "author": "Dustin Diaz <dustin@dustindiaz.com> (http://dustindiaz.com)",
+  "keywords": [
+    "ender",
+    "domready",
+    "dom"
+  ],
+  "main": "ready.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/components/domready.git"
+  }
+}

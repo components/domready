@@ -1,0 +1,31 @@
+{
+    "name": "components/domready",
+    "description": "bullet proof DOM ready method",
+    "type": "component",
+    "homepage": "https://github.com/ded/domready",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/ded/domready/issues",
+        "source": "https://github.com/ded/domready"
+    },
+    "authors": [
+        {
+            "name": "Dustin Diaz",
+            "homepage": "http://github.com/ded"
+        }
+    ],
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "main": "ready.js",
+            "scripts": [
+                "ready.js"
+            ],
+            "files": [
+                "ready.min.js"
+            ]
+        }
+    }
+}
