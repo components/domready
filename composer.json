@@ -14,9 +14,6 @@
             "homepage": "http://github.com/ded"
         }
     ],
-    "require": {
-        "robloach/component-installer": "*"
-    },
     "extra": {
         "component": {
             "main": "ready.js",
